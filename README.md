@@ -17,3 +17,7 @@ Command examples:
 Network Resolver v0 has been released.
 
 Network Resolver v0.1 in development.
+
+Goals for v0.1:
+
+   - Instead of getting a hostname from an IP address, I'm working on website url resolution
