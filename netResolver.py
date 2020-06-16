@@ -55,16 +55,16 @@ class Prompt():
                     Backend.clearScreen()
                 elif inp[0] == 'host':
                     if len(inp) < 2:
-                        print('Invalid or no argument was given')
+                        print('Invalid argument or no argument was given')
                     else:
                         Network.resolvHost(inp[1])
                 elif inp[0] == 'ip':
                     if len(inp) < 2:
-                        print('Invalid or no argument was given')
+                        print('Invalid argument or no argument was given')
                     else:
                         Network.resolvIP(inp[1])
                 elif inp[0] == 'command':
                     Prompt.showCommands()
                 else:
-                    print('Invalid command.')
+                    print('Invalid command')
 Prompt.main()
