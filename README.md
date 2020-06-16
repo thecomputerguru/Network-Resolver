@@ -16,4 +16,4 @@ Command examples:
 
 Network Resolver v0 has been released.
 
-Network Resolver v1 in development.
+Network Resolver v0.1 in development.
