@@ -20,4 +20,4 @@ Network Resolver v0.1 in development.
 
 Goals for v0.1:
 
-   - Instead of getting a hostname from an IP address, I'm working on website URL resolution
+   - IP address to website URL resolution functionality
