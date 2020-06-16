@@ -9,6 +9,6 @@ Available commands:
     clear - Clears the terminal window and returns to a prompt
     command - Shows a list of avaliable commands
 
-Network Resolver v0 has been uploaded.
+Network Resolver v0 has been released.
 
 Network Resolver v1 in development.
