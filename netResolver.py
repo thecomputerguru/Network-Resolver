@@ -29,11 +29,11 @@ class Prompt():
 
     def showCommands():
         Backend.lineBreak()
-        print('command => Shows list of available commands')
-        print('exit => Quits the program')
-        print('clear => Clears terminal screen')
         print('ip => Resolves an IP address to hostnames')
         print('host => Resolves a hostname to an IP address')
+        print('exit => Quits the program')
+        print('clear => Clears terminal screen')
+        print('command => Shows list of available commands')
         Backend.lineBreak()
 
     def main():
