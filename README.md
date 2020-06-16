@@ -1,5 +1,5 @@
 # Network-Resolver
-Command prompt based network resolver that resolves hostnames and IP addresses.
+Command prompt like network resolver that resolves hostnames and IP addresses.
 
 Available commands:
   
