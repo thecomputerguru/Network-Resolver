@@ -21,3 +21,4 @@ Network Resolver v0.1 in development.
 Goals for v0.1:
 
    - IP address to website URL resolution functionality
+   - Implement the cmd framework into the program
