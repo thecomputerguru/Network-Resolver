@@ -11,8 +11,8 @@ Available commands:
     
 Command examples:
 
-    ip <ip address>
-    host <hostname>
+    ip <0.0.0.0>
+    host <www.example_host.com>
 
 Network Resolver v0 has been released.
 
