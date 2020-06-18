@@ -16,6 +16,11 @@ Command examples:
 
 Network Resolver v0 has been released.
 
+Features in Network Resolver v0:
+    
+    -Hostname to IP address resolution
+    -IP address to hostname resolution
+
 Network Resolver v0.1 in development.
 
 Goals for v0.1:
