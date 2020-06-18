@@ -29,7 +29,7 @@ class Prompt():
 
     def showCommands():
         Backend.lineBreak()
-        print('ip => Resolves an IP address to hostnames')
+        print('ip => Resolves an IP address to a hostname')
         print('host => Resolves a hostname to an IP address')
         print('exit => Quits the program')
         print('clear => Clears terminal screen')
