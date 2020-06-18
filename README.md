@@ -27,3 +27,5 @@ Network Resolver v0.1 in development.
 Goals for v0.1:
 
    - Implement command-line argument system for quick resolutions without entering into the command prompt interface
+   
+Open to any feature requests.
