@@ -20,6 +20,7 @@ Features in Network Resolver v0:
     
    - Hostname to IP address resolution
    - IP address to hostname resolution
+   - Command prompt like interface
 
 Network Resolver v0.1 in development.
 
