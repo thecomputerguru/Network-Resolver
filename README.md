@@ -36,7 +36,7 @@ Features in Network Resolver v0.1:
       
   - Argument system to make quick resolutions
   
-      --ip - Resolve IP address to Hhstname
+      --ip - Resolve IP address to hostname
       
       --host - Resolve Hostname to IP address
    
