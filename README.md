@@ -5,8 +5,10 @@ Available commands:
   
     ip - Resolves an IP address to a hostname
     host - Resolves a hostname to an IP address
+    help - Program help
     exit - Quits the program
     clear - Clears the terminal window and returns to a prompt
+    example - Shows command examples
     command - Shows a list of avaliable commands
     
 Command examples:
@@ -14,7 +16,7 @@ Command examples:
     ip <0.0.0.0>
     host <www.example_host.com>
 
-Network Resolver v0 has been released.
+Network Resolver v0 released.
 
 Features in Network Resolver v0:
     
@@ -22,10 +24,16 @@ Features in Network Resolver v0:
    - IP address to hostname resolution
    - Command prompt like interface
 
-Network Resolver v0.1 in development.
+Network Resolver v0.1 released.
 
-Goals for v0.1:
+Features in Network Resolver v0.1:
 
-   - Implement command-line argument system for quick resolutions without entering into the command prompt interface
+  - New commands:
+      -help
+      -example
+  - Argument system to make quick resolutions
+      --ip - Resolve IP address to Hhstname
+      --host - Resolve Hostname to IP address
+   
    
 I am open to any feature requests.
