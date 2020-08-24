@@ -31,10 +31,13 @@ Features in Network Resolver v0.1:
   - New commands:
   
       -help
+      
       -example
       
   - Argument system to make quick resolutions
+  
       --ip - Resolve IP address to Hhstname
+      
       --host - Resolve Hostname to IP address
    
    
