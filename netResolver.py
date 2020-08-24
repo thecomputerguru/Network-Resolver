@@ -71,7 +71,7 @@ Type \"example\" for examples of primary commands''')
         print('Command examples:')
         Backend.lineBreak()
         print('''Host command:'''+' '+'''host <www.example_host.com>
-IP command:'''+' '+'''ip <0.0.0.0.0>''')
+        IP command:'''+' '+'''ip <0.0.0.0.0>''')
         Backend.lineBreak()
 
     def showCommands():
